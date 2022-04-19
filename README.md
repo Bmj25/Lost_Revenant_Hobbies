@@ -16,3 +16,5 @@ Acknowledgement & Attribution:
     4) Bootstrap and W3School for style and HTML instructions.
 
     5) Games Workshop and Giphy for the LOTR/40K themed GIFs embeded on the About Me page. The GIFs are not mine nor do they represent any of my design. All rights to them!
+
+    6) Tagindex.net for the code for pading margins on ul items.
