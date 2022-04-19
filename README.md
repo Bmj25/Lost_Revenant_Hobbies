@@ -8,7 +8,7 @@ Acknowledgement & Attribution:
     1) Professor Rossetti for his student-site template,
 
     2) Kirby Horvitz for an example website and base code (https://kirbyhorvitz.github.io/KirbyHorvitzArt/myart.html)
-        - Photogrid, style elements, and navigation functionality
+        - Photogrid and navigation functionality
         - Note: All adapted code has been significantly changed to represent individual work.
 
     3) Pat Curley for his mentorship in problem-solving.
