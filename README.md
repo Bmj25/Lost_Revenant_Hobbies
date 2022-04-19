@@ -14,3 +14,5 @@ Acknowledgement & Attribution:
     3) Pat Curley for his mentorship in problem-solving.
 
     4) Bootstrap and W3School for style and HTML instructions.
+
+    5) Games Workshop and Giphy for the LOTR/40K themed GIFs embeded on the About Me page. The GIFs are not mine nor do they represent any of my design. All rights to them!
